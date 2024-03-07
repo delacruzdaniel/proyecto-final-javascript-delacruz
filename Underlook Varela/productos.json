@@ -1,0 +1,188 @@
+{
+  "productos": [
+    
+      {
+      "id": 10, 
+      "nombre": "Gorra Capslab Super Saiyan Gokú", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/01.jpeg"
+    },
+
+      {
+      "id": 11, 
+      "nombre": "Gorra Capslab Daffy duck", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/02.jpeg"
+    },
+
+      {
+      "id": 12, 
+      "nombre": "Gorra Capslab Majin Vegeta", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/03.jpeg"
+    },
+
+      {
+      "id": 13, 
+      "nombre": "Gorra Capslab Looney Toones Bugs Bunny", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/04.jpeg"
+    },
+
+      {
+      "id": 14, 
+      "nombre": "Gorra Capslab Looney Toones Tweety", 
+      "categoria": "CapsLab", 
+      "precio": 741.999, 
+      "rutaImagen": "../img/capslab/05.jpeg"
+    },
+
+      {
+      "id": 15, 
+      "nombre": "Gorra Capslab Looney Toones Taz", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/06.jpeg"
+    },
+
+      {
+      "id": 16, 
+      "nombre": "Gorra Capslab Itachi", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/07.jpeg"
+    },
+
+      {
+      "id": 17, 
+      "nombre": "Gorra Capslab Looney Toones", 
+      "categoria": "CapsLab", 
+      "precio": 41.999, 
+      "rutaImagen": "../img/capslab/08.jpeg"
+    },
+
+      {
+      "id": 18, 
+      "nombre": "Gorra Gorin Bros Fox", 
+      "categoria": "Gorin Bros", 
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/01.jpeg"
+    },
+
+      {
+      "id": 19, 
+      "nombre": "Gorra 42.108,01 ", 
+      "categoria": "Gorin Bros", 
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/02.jpeg"
+    },
+
+      {
+      "id": 20,
+      "nombre": "Gorra Gorin Bros High Giraffe", 
+      "categoria": "Gorin Bros", 
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/03.jpeg"
+    },
+
+      {
+      "id": 21, 
+      "nombre": "Gorra Gorin Bros Extra Large Elepanth", 
+      "categoria": "Gorin Bros", 
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/04.jpeg"
+    },
+
+      {
+      "id": 22, 
+      "nombre": "Gorra Gorin Bros Bee Queen", 
+      "categoria": "Gorin Bros", 
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/05.jpeg"
+    },
+
+      {
+      "id": 23, 
+      "nombre": "Gorra Gorin Bros Alacrán",
+      "categoria": "Gorin Bros",
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/06.jpeg"
+    },
+
+      {
+      "id": 24, 
+      "nombre": "Gorra Gorin Bros Gorilla Boss",
+      "categoria": "Gorin Bros",
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/07.jpeg"
+    },
+
+      {
+      "id": 25, 
+      "nombre": "Gorra Gorin Bros Panter",
+      "categoria": "Gorin Bros",
+      "precio": 49.500, 
+      "rutaImagen": "../img/goorinBros/08.jpeg"
+    },
+    {
+      "id": 26, 
+      "nombre": "Gorra Adidas Gray Camouflage", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 34.000, 
+      "rutaImagen": "../img/marcasReconocidas/adidas/01.jpeg"
+    },
+    {
+      "id": 27, 
+      "nombre": "Gorra Adidas Black", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 60.000, 
+      "rutaImagen": "../img/marcasReconocidas/adidas/02.jpeg"
+    },
+    {
+      "id": 28, 
+      "nombre": "Gorra Adidas Camouflage jungle", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 36.000, 
+      "rutaImagen": "../img/marcasReconocidas/adidas/03.jpeg"
+    },
+    {
+      "id": 29, 
+      "nombre": "Gorra Jordan Red", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 56.000, 
+      "rutaImagen": "../img/marcasReconocidas/jordan/01.jpeg"
+    },
+    {
+      "id": 30, 
+      "nombre": "Gorra Jordan Black", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 45.000, 
+      "rutaImagen": "../img/marcasReconocidas/jordan/02.jpeg"
+    },
+    {
+      "id": 31, 
+      "nombre": "Gorra Nike Blue", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 30.000, 
+      "rutaImagen": "../img/marcasReconocidas/nike/01.jpeg"
+    },
+    {
+      "id": 32, 
+      "nombre": "Gorra Puma Classic", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 55.000, 
+      "rutaImagen": "../img/marcasReconocidas/puma/01.jpeg"
+    },
+    {
+      "id": 33, 
+      "nombre": "Gorra Puma Black", 
+      "categoria": "Marcas reconocidas", 
+      "precio": 55.000, 
+      "rutaImagen": "../img/marcasReconocidas/puma/02.jpeg"
+    }
+  ]
+}
